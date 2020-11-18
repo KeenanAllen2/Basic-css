@@ -18,7 +18,7 @@ body {
   background-color: gray;
   max-width: 1000px;
   margin: 0 auto;
-  background-image: url("/img/download.jpg");
+  background-image: url("../img/download.jpg");
   background-position: center;
   background-repeat: repeat-full;
 }
